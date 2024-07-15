@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1>Hi<br/><a href="">Cybersecurity Professional Hopefully</a></h1>
 
-<!--
-**Ed0079/Ed0079** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Software Development Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Project01</b>
+  - [Python]()
+- <b>Project02</b>
+  - []() <b><i>(</b></i>
+- <b>Project03</b>
+  - [1]()
+  - [2)]()
+  - [3]()
+  - [4]()
+- <b>Project04</b>
+  - [1]()
+  - 
+  - 
+- <b>Project05</b>
+  - 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> 🤳 Connect with me:</h2>
+
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[linkedin]: 
