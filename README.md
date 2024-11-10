@@ -21,16 +21,17 @@ the place but hopefully well organize and easy to understand.
 #
 <h1>👨‍💻Projects I'm Proud of:</h1>
 
-- <b>Project01</b>
-  - [RandomIdeas](https://github.com/Ed0079/RandomIdeas)
-- <b>Project02</b>
-  - [2DPlatformer](https://github.com/Ed0079/2DPlatformer)
-- <b>Project03</b>
-  - [SimpleStoreFront](https://github.com/Ed0079/SimpleStoreFront)
+- <b>Project01 :</b>
+  [RandomIdeas](https://github.com/Ed0079/RandomIdeas)
+- <b>Project02 :</b>
+  [2DPlatformer](https://github.com/Ed0079/2DPlatformer)
+- <b>Project03 :</b>
+  [SimpleStoreFront](https://github.com/Ed0079/SimpleStoreFront)
  
 #
 <h1>👨‍💻Recent Projects:</h1>
 
-- <b>2DPlatformer</b>
-  - [2DPlatformer](https://github.com/Ed0079/2DPlatformer)
+- <b>[2DPlatformer](https://github.com/Ed0079/2DPlatformer)</b>
+
+  <b>[More](https://github.com/Ed0079?tab=repositories)</b>
 
