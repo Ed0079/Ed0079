@@ -2,9 +2,9 @@
 
 **`Programmer/Tech hobbyist`**
 
-I'm a competent programmer and cybersecurity practitioner. Programming is more than a hobby for me it's also my passion and my creative outlet.
-I find I find joy in the challenges of programming and exploring new technologies that's why the projects on this page are going to be all over 
-the place but hopefully well organize and easy to understand.
+I'm a competent programmer and cybersecurity practitioner. Programming is more than a hobby for me, it's also my passion and creative outlet.
+I find joy in the challenges of programming and exploring new technologies. The projects on this page are going to be all over 
+the place, but hopefully well organize and easy to understand.
 
 ---
 
@@ -22,16 +22,16 @@ the place but hopefully well organize and easy to understand.
 <h1>👨‍💻Projects I'm Proud of:</h1>
 
 - <b>Project01 :</b>
-  [RandomIdeas](https://github.com/Ed0079/RandomIdeas)
+  [Random Ideas](https://github.com/Ed0079/RandomIdeas)
 - <b>Project02 :</b>
-  [2DPlatformer](https://github.com/Ed0079/2DPlatformer)
+  [2D Platformer](https://github.com/Ed0079/2DPlatformer)
 - <b>Project03 :</b>
-  [SimpleStoreFront](https://github.com/Ed0079/SimpleStoreFront)
+  [Simple Store Front](https://github.com/Ed0079/SimpleStoreFront)
  
 #
 <h1>👨‍💻Recent Projects:</h1>
 
-- <b>[2DPlatformer](https://github.com/Ed0079/2DPlatformer)</b>
+- <b>[2D Platformer](https://github.com/Ed0079/2DPlatformer)</b>
 
   <b>[More](https://github.com/Ed0079?tab=repositories)</b>
 
