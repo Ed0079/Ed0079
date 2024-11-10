@@ -22,7 +22,7 @@ the place but hopefully well organize and easy to understand.
 <h1>👨‍💻Projects:</h1>
 
 - <b>Project01</b>
-  - [Python]("https://github.com/Ed0079/RandomIdeas")
+  - [Python](https://github.com/Ed0079/RandomIdeas)
 
 
 
