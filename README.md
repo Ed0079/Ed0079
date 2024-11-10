@@ -21,11 +21,11 @@ the place, but hopefully well organize and easy to understand.
 #
 <h1>👨‍💻Projects I'm Proud of:</h1>
 
-- <b>Project01 :</b>
+- <b>Project 01 :</b>
   [Random Ideas](https://github.com/Ed0079/RandomIdeas)
-- <b>Project02 :</b>
+- <b>Project 02 :</b>
   [2D Platformer](https://github.com/Ed0079/2DPlatformer)
-- <b>Project03 :</b>
+- <b>Project 03 :</b>
   [Simple Store Front](https://github.com/Ed0079/SimpleStoreFront)
  
 #
